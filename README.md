@@ -25,25 +25,28 @@ Aplicitivo desenvolvido no software Power Apps, a partir de dados abertos sobre 
 >Tela Inicial
 <div id="top"></div>
 <p align="right side">
-      <img src="Arquivos_Sprint1/SwiftMove.png" width="30%" height="30%">
+      <img src="Arquivos Informática/Tela_Inicial.png" width="30%" height="30%">
 <p align="center">
 
 >Empresas Licenciadas
 <div id="top"></div>
 <p align="right side">
-      <img src="Arquivos_Sprint1/SwiftMove.png" width="30%" height="30%">
+      <img src="Arquivos Informática/Empresas_Licenciadas.png" width="30%" height="30%">
 <p align="center">
 
 >Dados
 <div id="top"></div>
 <p align="right side">
-      <img src="Arquivos_Sprint1/SwiftMove.png" width="30%" height="30%">
+      <img src="Arquivos Informática/Dados1.png" width="30%" height="30%">
+<p align="center">
+
+<div id="top"></div>
+<p align="right side">
+      <img src="Arquivos Informática/Dados2.png" width="30%" height="30%">
 <p align="center">
 
 >Cadastro
 <div id="top"></div>
 <p align="right side">
-      <img src="Arquivos_Sprint1/SwiftMove.png" width="30%" height="30%">
+      <img src="Arquivos Informática/Cadastros.png" width="30%" height="30%">
 <p align="center">
-
-
