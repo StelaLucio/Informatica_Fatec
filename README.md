@@ -13,6 +13,11 @@ Este repositório tem como objetivo tornar disponível, atividades realizadas em
 # Dashbord desenvolvido
 Visualização realizada a partir de dados abertos sobre acidentes em rodovias, disponíveis no portal ANTT.
 
+<div id="top"></div>
+<p align="right side">
+      <img src="Arquivos Informática/Acidentes_RIOSP.png" width="150%" height="150%">
+<p align="center">
+
 [Visualizar Dashboard](https://app.powerbi.com/groups/me/reports/c4f0ba8e-b193-4191-8b5d-17c530947f65/ReportSection?experience=power-bi)
 
 # Aplicativo- Licenças de Viagens
@@ -25,28 +30,28 @@ Aplicitivo desenvolvido no software Power Apps, a partir de dados abertos sobre 
 >Tela Inicial
 <div id="top"></div>
 <p align="right side">
-      <img src="Arquivos Informática/Tela_Inicial.png" width="30%" height="30%">
+      <img src="Arquivos Informática/Tela_Inicial.png" width="50%" height="50%">
 <p align="center">
 
 >Empresas Licenciadas
 <div id="top"></div>
 <p align="right side">
-      <img src="Arquivos Informática/Empresas_Licenciadas.png" width="30%" height="30%">
+      <img src="Arquivos Informática/Empresas_Licenciadas.png" width="50%" height="50%">
 <p align="center">
 
 >Dados
 <div id="top"></div>
 <p align="right side">
-      <img src="Arquivos Informática/Dados1.png" width="30%" height="30%">
+      <img src="Arquivos Informática/Dados1.png" width="50%" height="50%">
 <p align="center">
 
 <div id="top"></div>
 <p align="right side">
-      <img src="Arquivos Informática/Dados2.png" width="30%" height="30%">
+      <img src="Arquivos Informática/Dados2.png" width="50%" height="50%">
 <p align="center">
 
 >Cadastro
 <div id="top"></div>
 <p align="right side">
-      <img src="Arquivos Informática/Cadastros.png" width="30%" height="30%">
+      <img src="Arquivos Informática/Cadastros.png" width="50%" height="50%">
 <p align="center">
