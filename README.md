@@ -10,7 +10,12 @@ Realizada com o objetivos de apresentarmos nossas vivências, e conhecermos uns 
 [Visualizar apresentação](https://www.canva.com/design/DAF9oEJCaGw/r62kdMSI29MhuIPTHS4YKw/edit?utm_content=DAF9oEJCaGw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 # Exel
+<div id="top"></div>
+<p align="right side">
+      <img src="Arquivos Informática/Gastos_Mensais.png" width="150%" height="150%">
+<p align="center">
 
+[Visualizar Exel](https://fatecspgov-my.sharepoint.com/:x:/r/personal/stela_lucio_fatec_sp_gov_br/Documents/Gastos_Mensais.xlsx?d=w40b5e5716f874822b99e67ad9b3f4240&csf=1&web=1&e=fbl9qf)
 
 # Dashbord desenvolvido
 Visualização realizada a partir de dados abertos sobre acidentes em rodovias, disponíveis no portal ANTT.
