@@ -5,6 +5,11 @@ Este repositório tem como objetivo tornar disponível, atividades realizadas em
 * Compartilhar aprendizados.
 
 # Apresentação- About We
+Realizada com o objetivos de apresentarmos nossas vivências, e conhecermos uns aos outros no início do semestre.
+
+[Visualizar apresentação](https://www.canva.com/design/DAF9oEJCaGw/r62kdMSI29MhuIPTHS4YKw/edit?utm_content=DAF9oEJCaGw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+# Exel
 
 
 # Dashbord desenvolvido
@@ -52,3 +57,5 @@ Aplicitivo desenvolvido no software Power Apps, a partir de dados abertos sobre 
 <p align="right side">
       <img src="Arquivos Informática/Cadastros.png" width="50%" height="50%">
 <p align="center">
+
+# Power Automate
