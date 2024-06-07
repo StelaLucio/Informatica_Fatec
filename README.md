@@ -4,11 +4,8 @@ Este repositório tem como objetivo tornar disponível, atividades realizadas em
 * Demonstrar o método de aprendizagem ágil;
 * Compartilhar aprendizados.
 
-# Equipe
-|    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
-| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Team |   Jennifer Senne         |  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JSenne15)              |
-|Team| Stela Lúcio |  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Stela-Lucio)     |
+# Apresentação- About We
+
 
 # Dashbord desenvolvido
 Visualização realizada a partir de dados abertos sobre acidentes em rodovias, disponíveis no portal ANTT.
