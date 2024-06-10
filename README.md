@@ -1,15 +1,24 @@
-# Objetivo do repositório
+https://github.com/StelaLucio/Informatica_Fatec/assets/163483867/8c99501e-e1fc-45b1-b6a1-5a2f3c4c8ad6
+
+# :dart:Objetivo do repositório
 Este repositório tem como objetivo tornar disponível, atividades realizadas em sala de aula, visando:
 * Atividades de fácil acesso;
 * Demonstrar o método de aprendizagem ágil;
 * Compartilhar aprendizados.
 
-# Apresentação- About We
+# :clipboard:Indíce
+* Apresentação
+* Exel
+* Power BI
+* Power Apps
+* Power Automate
+
+# :movie_camera:Apresentação- About We
 Realizada com o objetivos de apresentarmos nossas vivências, e conhecermos uns aos outros no início do semestre.
 
 [Visualizar apresentação](https://www.canva.com/design/DAF9oEJCaGw/r62kdMSI29MhuIPTHS4YKw/edit?utm_content=DAF9oEJCaGw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-# Exel
+# :bar_chart:Exel
 <div id="top"></div>
 <p align="right side">
       <img src="Arquivos Informática/Gastos_Mensais.png" width="150%" height="150%">
@@ -17,7 +26,7 @@ Realizada com o objetivos de apresentarmos nossas vivências, e conhecermos uns 
 
 [Visualizar Exel](https://fatecspgov-my.sharepoint.com/:x:/r/personal/stela_lucio_fatec_sp_gov_br/Documents/Gastos_Mensais.xlsx?d=w40b5e5716f874822b99e67ad9b3f4240&csf=1&web=1&e=fbl9qf)
 
-# Dashbord desenvolvido
+# :chart_with_upwards_trend:Dashbord desenvolvido
 Visualização realizada a partir de dados abertos sobre acidentes em rodovias, disponíveis no portal ANTT.
 
 <div id="top"></div>
@@ -27,7 +36,7 @@ Visualização realizada a partir de dados abertos sobre acidentes em rodovias, 
 
 [Visualizar Dashboard](https://app.powerbi.com/groups/me/reports/c4f0ba8e-b193-4191-8b5d-17c530947f65/ReportSection?experience=power-bi)
 
-# Aplicativo- Licenças de Viagens
+# 📱:Aplicativo- Licenças de Viagens
 Aplicitivo desenvolvido no software Power Apps, a partir de dados abertos sobre licenças de viagens, disponíveis no portal ANTT. No aplicativo é possível:
 
 * Visualizar as empresas Licenciadas;
@@ -63,4 +72,4 @@ Aplicitivo desenvolvido no software Power Apps, a partir de dados abertos sobre 
       <img src="Arquivos Informática/Cadastros.png" width="50%" height="50%">
 <p align="center">
 
-# Power Automate
+# :gears:Power Automate
