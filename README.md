@@ -6,7 +6,7 @@ Este repositório tem como objetivo tornar disponível, atividades realizadas em
 * Demonstrar o método de aprendizagem ágil;
 * Compartilhar aprendizados.
 
-# :clipboard:Indíce
+# :clipboard:Índice
 * Apresentação
 * Exel
 * Power BI
@@ -73,3 +73,13 @@ Aplicitivo desenvolvido no software Power Apps, a partir de dados abertos sobre 
 <p align="center">
 
 # :gear:Power Automate
+<div id="top"></div>
+<p align="right side">
+      <img src="Arquivos Informática/PowerAutomate1.png" width="130%" height="130%">
+<p align="center">
+
+<div id="top"></div>
+<p align="right side">
+      <img src="Arquivos Informática/PowerAutomate.png" width="130%" height="130%">
+<p align="center">
+
