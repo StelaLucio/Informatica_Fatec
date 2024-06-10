@@ -7,18 +7,28 @@ Este repositório tem como objetivo tornar disponível, atividades realizadas em
 * Compartilhar aprendizados.
 
 # :clipboard:Índice
-* Apresentação
-* Exel
-* Power BI
-* Power Apps
-* Power Automate
+* Apresentação;
+* Exel;
+* Power BI;
+* Power Apps;
+* Power Automate.
 
 # :movie_camera:Apresentação- About We
-Realizada com o objetivos de apresentarmos nossas vivências, e conhecermos uns aos outros no início do semestre.
+Realizada com o objetivos de apresentarmos nossas vivências, e conhecermos uns aos outros no início do semestre. Foi utilizado:
+* Canva;
+* Animações;
+* Fotos;
+* Vídeos.
 
 [Visualizar apresentação](https://www.canva.com/design/DAF9oEJCaGw/r62kdMSI29MhuIPTHS4YKw/edit?utm_content=DAF9oEJCaGw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 # :bar_chart:Exel
+Planilha desenvolvida, para trabalhar gráficos e fórmulas principais do exel:
+* SE;
+* SOMA;
+* SOMASE;
+* CONT.SE.
+
 <div id="top"></div>
 <p align="right side">
       <img src="Arquivos Informática/Gastos_Mensais.png" width="150%" height="150%">
@@ -27,7 +37,10 @@ Realizada com o objetivos de apresentarmos nossas vivências, e conhecermos uns 
 [Visualizar Exel](https://fatecspgov-my.sharepoint.com/:x:/r/personal/stela_lucio_fatec_sp_gov_br/Documents/Gastos_Mensais.xlsx?d=w40b5e5716f874822b99e67ad9b3f4240&csf=1&web=1&e=fbl9qf)
 
 # :chart_with_upwards_trend:Dashbord desenvolvido
-Visualização realizada a partir de dados abertos sobre acidentes em rodovias, disponíveis no portal ANTT.
+Visualização realizada a partir de dados abertos sobre acidentes em rodovias, disponíveis no portal ANTT. No dashboard é possível análisar:
+* Mortes por trecho;
+* Trechos dos acidentes;
+* Percentual de ocorrências pelo tipo.
 
 <div id="top"></div>
 <p align="right side">
@@ -73,6 +86,8 @@ Aplicitivo desenvolvido no software Power Apps, a partir de dados abertos sobre 
 <p align="center">
 
 # :gear:Power Automate
+Power Automate permite aos usuários automatizar processos repetíveis. No caso desse fluxo, sempre que um ficheiro for modificado, será enviado um email avisando sobre a movimentação.
+
 <div id="top"></div>
 <p align="right side">
       <img src="Arquivos Informática/PowerAutomate1.png" width="130%" height="130%">
