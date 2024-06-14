@@ -22,7 +22,7 @@ Realizada com o objetivos de apresentarmos nossas vivências, e conhecermos uns 
 
 [Visualizar apresentação](https://www.canva.com/design/DAF9oEJCaGw/r62kdMSI29MhuIPTHS4YKw/edit?utm_content=DAF9oEJCaGw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-# :bar_chart:Exel
+# :bar_chart:Excel
 Planilha desenvolvida, para trabalhar gráficos e fórmulas principais do exel:
 * SE;
 * SOMA;
